@@ -1,14 +1,15 @@
-! name: Socialist & Anti‑Imperialist Sources
+! name: Socialist, Left & Anti‑Imperialist Sources
 ! description: Search a curated list of left‑wing, anti‑imperialist and independent news sites.
 ! public: true
 ! author: Custom List
 ! homepage: https://unlearn.capital/
+! avatar: #CC0000
 
 $boost=10,site=amandla.org.za
 $boost=10,site=anti-imperialists.com
 $boost=10,site=blackagendareport.com
 $boost=10,site=breakthroughnews.org
-$boost=10,site=cgtn.com
+$boost=7,site=cgtn.com
 $boost=10,site=dropsitenews.com
 $boost=10,site=fightbacknews.org
 $boost=10,site=socialistchina.org
@@ -17,7 +18,7 @@ $boost=10,site=currentaffairs.org
 $boost=10,site=hoodcommunist.org
 $boost=10,site=kawsachun.com
 $boost=10,site=liberationnews.org
-$boost=10,site=middleeasteye.net
+$boost=8,site=middleeasteye.net
 $boost=10,site=mintpressnews.com
 $boost=10,site=mondoweiss.net
 $boost=10,site=novaramedia.com
@@ -25,8 +26,7 @@ $boost=10,site=orinocotribune.com
 $boost=10,site=peoplesworld.org
 $boost=10,site=progressive.international
 $boost=10,site=revolutionaryleftradio.libsyn.com
-$boost=10,site=sabcnews.com
-$boost=10,site=salaamedia.com
+$boost=9,site=salaamedia.com
 $boost=10,site=sovereignmedia.online
 $boost=10,site=electronicintifada.net
 $boost=10,site=thegrayzone.com
@@ -35,4 +35,4 @@ $boost=10,site=thespearhead.africa
 $boost=10,site=thetricontinental.org
 $boost=10,site=voxummah.com
 $boost=10,site=wsws.org
-$boost=10,site=zeteo.com
+$boost=7,site=zeteo.com
