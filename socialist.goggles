@@ -7,7 +7,6 @@
 
 $boost=4,site=sovereignmedia.online
 $boost=4,site=thespearhead.africa
-/$boost=4,site=thespearhead.africa^
 /archive?$boost=4,site=thespearhead.africa^
 $boost=3,site=amandla.org.za
 $boost=3,site=anti-imperialists.com
