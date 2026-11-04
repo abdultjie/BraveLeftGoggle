@@ -28,7 +28,7 @@ $boost=3,site=progressive.international
 $boost=3,site=revolutionaryleftradio.libsyn.com
 $boost=3,site=electronicintifada.net
 $boost=3,site=thegrayzone.com
-$boost=3,site=thecradle.co
+/category/news/$boost=3,site=thecradle.co
 $boost=3,site=thetricontinental.org
 $boost=3,site=voxummah.com
 $boost=3,site=wsws.org
